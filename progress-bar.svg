@@ -1,7 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="500" height="40">
-  <rect x="0" y="0" width="500" height="40" fill="#e0e0e0" />
-  <rect x="0" y="0" width="6.85" height="40" fill="#4caf50" />
+  <!-- Background bar -->
+  <rect x="0" y="0" width="500" height="40" fill="#f2f2f2" />
+  
+  <!-- Progress bar -->
+  <rect x="0" y="0" width="6.85" height="40" fill="#ff5733" />
+  
+  <!-- Text -->
   <text x="250" y="20" text-anchor="middle" alignment-baseline="middle" font-size="14" fill="white">
     1.37% Completed
   </text>
 </svg>
+
