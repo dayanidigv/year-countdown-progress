@@ -1,5 +1,5 @@
 
-# ?? **Year Countdown Progress** ?.
+# &#x1F570; **Year Countdown Progress** ?.
 
 ## ? Countdown to the end of 2025:
 - **359 days remaining** ?
