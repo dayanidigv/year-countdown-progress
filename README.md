@@ -10,8 +10,8 @@
 ## &#x1F525; **Progress Visualization**:
 
 **Current Year Progress:**
+![Progress Bar](data:image/svg+xml;base64,CjxzdmcgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjQwIj4KICA8cmVjdCB4PSIwIiB5PSIwIiB3aWR0aD0iNTAwIiBoZWlnaHQ9IjQwIiBmaWxsPSIjZTBlMGUwIiAvPgogIDxyZWN0IHg9IjAiIHk9IjAiIHdpZHRoPSI2Ljg1IiBoZWlnaHQ9IjQwIiBmaWxsPSIjNGNhZjUwIiAvPgogIDx0ZXh0IHg9IjI1MCIgeT0iMjAiIHRleHQtYW5jaG9yPSJtaWRkbGUiIGFsaWdubWVudC1iYXNlbGluZT0ibWlkZGxlIiBmb250LXNpemU9IjE0IiBmaWxsPSJ3aGl0ZSI+CiAgICAxLjM3JSBDb21wbGV0ZWQKICA8L3RleHQ+Cjwvc3ZnPgo=)
 
-[????????????????????]
 
 **1.37%**
 ---
