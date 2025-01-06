@@ -10,9 +10,11 @@
 ## &#x1F525; **Progress Visualization**:
 
 **Current Year Progress:**
-<br>
-![Progress Bar](https://raw.githubusercontent.com/dayanidigv/year-countdown-progress/refs/heads/main/progress-bar.svg)
-<br>
+
+<br><br>
+![Progress Bar](https://raw.githubusercontent.com/dayanidigv/year-countdown-progress/main/progress-bar.svg)
+<br><br>
+
 **1.37%**
 ---
 
@@ -22,9 +24,8 @@ _Last updated: **Mon Jan 06 2025**_
 
 Stay motivated as the year progresses! &#x1F680;
 
----
+--- 
 
 ### &#x1F4A1; **Fun Fact:**
 The year is steadily ticking by, but remember, the best part of the year is yet to come! &#x1F31F;
-
 ---
