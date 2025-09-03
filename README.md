@@ -2,8 +2,8 @@
 # &#x1F570; **Year Countdown Progress** &#x1F389;.
 
 ## &#x1F4C5; Countdown to the end of 2025:
-- **119 days remaining** &#x23F3;
-- **67.31% of the year completed** &#x1F4CA;
+- **118 days remaining** &#x23F3;
+- **67.58% of the year completed** &#x1F4CA;
 
 ---
 
@@ -15,12 +15,12 @@
 ![Progress Bar](https://raw.githubusercontent.com/dayanidigv/year-countdown-progress/main/progress-bar.svg)
 <br><br>
 
-**67.31%**
+**67.58%**
 ---
 
 ## &#x1F4C8; **Daily Updates**:
 
-_Last updated: **Wed Sep 03 2025**_
+_Last updated: **Thu Sep 04 2025**_
 
 Stay motivated as the year progresses! &#x1F680;
 
