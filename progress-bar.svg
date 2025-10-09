@@ -1,9 +1,9 @@
 
     <svg xmlns="http://www.w3.org/2000/svg" width="500" height="40">
       <rect x="0" y="0" width="500" height="40" fill="#262C36" />
-      <rect x="0" y="0" width="386" height="40" fill="#ffeb3b" />
+      <rect x="0" y="0" width="387.35" height="40" fill="#ffeb3b" />
       <text x="250" y="20" text-anchor="middle" alignment-baseline="middle" font-size="14" fill="white">
-        77.20% Completed
+        77.47% Completed
       </text>
     </svg>
   
